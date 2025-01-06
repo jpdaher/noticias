@@ -1,4 +1,4 @@
-# noticias
+# notícias
 Web app em php que consulta a News API para mostrar notícias recentes.
 
 ### Requisitos
@@ -10,7 +10,7 @@ Web app em php que consulta a News API para mostrar notícias recentes.
 ### Instalação
 1. Clone o repositório
 2. Coloque sua chave de API no local correto em ```index.php```
-3. Inicie um servidor PHP na pasta contendo os dois arquivos
+3. Inicie um servidor PHP na pasta contendo os dois arquivos. Caso esteja utilizando xampp, copie os dois arquivos do repositório para a pasta htdocs, dentro da pasta do xampp.
 4. Abra o servidor no navegador
 
 ### Estrutura do projeto
